@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>My rss feeds</title>
+  <link></link>
+  <description>new tech news</description>
+  <item>
+    <title>Les noves grafiques de nvidia</title>
+    <link>link pagina web de rss</link>
+    <description>seleccion de las nuevas graficas de nvidia</description>
+  </item>
+  <item>
+    <title>els nous processadors de amd</title>
+    <link>link pagina web de rss</link>
+    <description>selec</description>
+  </item>
+  <item>
+    <title>Las nuevas graficas </title>
+    <link>link pagina web de rss</link>
+    <description>seleccion de las nuevas graficas de nvidia</description>
+  </item>
+</channel>
+</rss>
