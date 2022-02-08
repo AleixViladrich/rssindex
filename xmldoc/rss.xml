@@ -6,13 +6,13 @@
   <description>new tech news</description>
   <item>
     <title>Les noves grafiques de nvidia</title>
-    <link>link pagina web de rss</link>
+    <link>https://www.nvidia.com/es-es/geforce/graphics-cards/30-series/</link>
     <description>seleccion de las nuevas graficas de nvidia</description>
   </item>
   <item>
     <title>els nous processadors de amd</title>
-    <link>link pagina web de rss</link>
-    <description>selec</description>
+    <link>https://www.amd.com/es/processors/ryzen</link>
+    <description>les caracteristiques revelades per l'empresa</description>
   </item>
   <item>
     <title>Las nuevas graficas </title>

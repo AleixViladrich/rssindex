@@ -1,0 +1,19 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.title {
+    text-align: center;
+    background-color: bisque;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.links {
+    position: absolute;
+    background-color: aqua;
+    width: fit-content;
+    top: 20%;
+    left: 35%;
+    padding: 100px;
+}
