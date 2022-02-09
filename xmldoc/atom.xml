@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>My rss feeds</title>
+  <link/>
+    <entry>
+    <title>Les noves grafiques de nvidia</title>
+    <link>https://www.nvidia.com/es-es/geforce/graphics-cards/30-series/</link>
+    <summary>seleccion de las nuevas graficas de nvidia</summary>
+  </entry>
+  <entry>
+    <title>els nous processadors de amd</title>
+    <link>https://www.amd.com/es/processors/ryzen</link>
+    <sumary>les caracteristiques revelades per l'empresa</sumary>
+  </entry>
+  <entry>
+    <title>microsoft adquereix activision blizzard</title>
+    <link>https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/</link>
+    <sumary>adquereix grans franquicies com candy crush, i call of duty</sumary>
+</entry>
+
+</feed>
